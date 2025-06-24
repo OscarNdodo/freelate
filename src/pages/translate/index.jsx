@@ -157,14 +157,16 @@ const Translate = () => {
         }
     };
 
+
+
     return (
         <div className="flex flex-col h-screen bg-gray-50 dark:bg-gray-900 transition-colors duration-200">
             {/* Cabeçalho */}
             <header className="border-b border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
                 <div className="max-w-3xl mx-auto px-4 py-3 flex items-center justify-between">
                     <div className="flex items-center gap-2">
-                        <img src="logo.svg" alt="Freelate Logo" className="w-8 h-8" />
-                        <h1 className="text-xl font-bold text-gray-800 dark:text-gray-100">Freelate</h1>
+                        <img src="/logo.svg" alt="Traduza Logo" className="w-8 h-8" />
+                        <h1 className="text-xl font-bold text-gray-800 dark:text-gray-100">Traduza</h1>
                     </div>
                     {history.length > 0 && (
                         <button

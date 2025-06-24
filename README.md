@@ -1,8 +1,8 @@
-# Freelate - Tradutor Online
+# Traduza - Tradutor Online
 
-![Freelate Screenshot](screenshot.png) <!-- Adicione uma screenshot real depois -->
+![Traduza Screenshot](screenshot.png) <!-- Adicione uma screenshot real depois -->
 
-Freelate é um tradutor online rápido e eficiente com interface inspirada em chat, desenvolvido em React. Traduza textos entre múltiplos idiomas e mantenha um histórico das suas traduções.
+Traduza é um tradutor online rápido e eficiente com interface inspirada em chat, desenvolvido em React. Traduza textos entre múltiplos idiomas e mantenha um histórico das suas traduções.
 
 ## Funcionalidades Principais
 
@@ -60,5 +60,7 @@ Freelate é um tradutor online rápido e eficiente com interface inspirada em ch
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/freelate.git
-   cd freelate
+   git clone https://github.com/seu-usuario/traduza.git
+   cd traduza
+   npm i
+   npm run dev
