@@ -165,7 +165,6 @@ const Translate = () => {
             <header className="border-b border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
                 <div className="max-w-3xl mx-auto px-4 py-3 flex items-center justify-between">
                     <div className="flex items-center gap-2">
-                        <img src="/src/assets/logo.svg" alt="Traduza Logo" className="w-8 h-8" />
                         <h1 className="text-xl font-bold text-gray-800 dark:text-gray-100">Traduza</h1>
                     </div>
                     {history.length > 0 && (
